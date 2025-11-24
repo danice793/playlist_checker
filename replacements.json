@@ -1,0 +1,174 @@
+{
+    "dau phim_nu luat su": {
+        "value": "dau phim_nu luat su",
+        "replace_type": "full"
+    },
+    "duoi phim_nu luat su": {
+        "value": "duoi phim_nu luat su",
+        "replace_type": "full"
+    },
+    "dau phim_tra tao do": {
+        "value": "dau phim_tra tao do",
+        "replace_type": "full"
+    },
+    "duoi phim_tra tao do - phan 1 - tra tao do": {
+        "value": "duoi tra tao do",
+        "replace_type": "partial"
+    },
+    "dau phim_ben le toi ac": {
+        "value": "dau_ben le toi ac",
+        "replace_type": "full"
+    },
+    "duoi phim_thuthachcuocdoi": {
+        "value": "ending_ttcd",
+        "replace_type": "full"
+    },
+    "duoi phim_tieng set trong mua": {
+        "value": "duoi phim tstm",
+        "replace_type": "partial"
+    },
+    "dau phim_dau be duong tran": {
+        "value": "dau _dau be duong tran",
+        "replace_type": "full"
+    },
+    "dau phim_khong can soai ca": {
+        "value": "khong can soai ca - dau phim",
+        "replace_type": "full"
+    },
+    "duoi phim_khong can soai ca": {
+        "value": "khong can soai ca - duoi phim",
+        "replace_type": "full"
+    },
+    "dau phim_sui gia khac khau": {
+        "value": "dau_sui gia khac khau",
+        "replace_type": "partial"
+    },
+    "duoi phim_sui gia khac khau": {
+        "value": "duoi_sui gia khac khau",
+        "replace_type": "full"
+    },
+    "dau phim_ong trum": {
+        "value": "dau_ong trum",
+        "replace_type": "full"
+    },
+    "dau phim_vo chong dau thoi @": {
+        "value": "dau phim_vo chong dau thoi @_hh",
+        "replace_type": "full"
+    },
+    "dau phim_lay chong cho me": {
+        "value": "dau_lay chong cho me_hh",
+        "replace_type": "full"
+    },
+    "duoi phim_lay chong cho me": {
+        "value": "duoi_lay chong cho me",
+        "replace_type": "full"
+    },
+    "dau phim_tinh la day oan": {
+        "value": "tinh la day oan - dau phim",
+        "replace_type": "full"
+    },
+    "duoi phim_tinh la day oan": {
+        "value": "tinh la day oan - duoi phim",
+        "replace_type": "full"
+    },
+    "dau phim_biet thu trang": {
+        "value": "dau_biet thu trang_",
+        "replace_type": "full"
+    },
+    "duoi phim_biet thu trang": {
+        "value": "duoi_biet thu trang",
+        "replace_type": "full"
+    },
+    "dau phim_tran do bat quai": {
+        "value": "dau_tran do bat quai_tu_2025",
+        "replace_type": "full"
+    },
+    "dau phim_di qua mua gio": {
+        "value": "dau phim_di qua mua gio",
+        "replace_type": "full"
+    },
+    "duoi phim_di qua mua mua": {
+        "value": "di qua mua mua - duoi phim",
+        "replace_type": "full"
+    },
+    "dau phim_huong buoi": {
+        "value": "dau_huong buoi",
+        "replace_type": "full"
+    },
+    "dau phim_tren ca tinh than": {
+        "value": "dau phim_tren ca tinh than",
+        "replace_type": "full"
+    },
+    "duoi phim_ken re": {
+        "value": "duoi_ken re",
+        "replace_type": "full"
+    },
+    "dau phim_bong trang do": {
+        "value": "dau_song de chuoc loi p1_bong trang do",
+        "replace_type": "full"
+    },
+    "dau phim_vong tron toi ac": {
+        "value": "dau_vong tron toi ac_hh",
+        "replace_type": "full"
+    },
+    "duoi phim_vong tron toi ac": {
+        "value": "duoi_vong tron toi ac",
+        "replace_type": "full"
+    },
+    "dau phim_phia sau toi ac": {
+        "value": "dau_phia sau toi ac",
+        "replace_type": "full"
+    },
+    "duoi phim_phia sau toi ac": {
+        "value": "duoi_psta",
+        "replace_type": "full"
+    },
+    "dau phim_song de chuoc loi p.2": {
+        "value": "dau_tinh ky nu_2025",
+        "replace_type": "full"
+    },
+    "duoi phim_song de chuoc loi p.2": {
+        "value": "duoi_tinh ky nu_sua",
+        "replace_type": "full"
+    },
+    "dau phim_canh bac tinh yeu": {
+        "value": "2025_dau phim 1_canh bac tinh yeu",
+        "replace_type": "full"
+    },
+    "duoi phim_canh bac tinh yeu": {
+        "value": "duoi cbty",
+        "replace_type": "full"
+    },
+    "dau phim_mot chang ba nang": {
+        "value": "dau_mot chang ba nang",
+        "replace_type": "full"
+    },
+    "phim_mat na tinh yeu - t": {
+        "value": "mnty_tap",
+        "replace_type": "partial"
+    },
+    "mua sen can": {
+        "value": "msc",
+        "replace_type": "partial"
+    },
+    "mua say tro bong": {
+        "value": "mstb",
+        "replace_type": "partial"
+    },
+    "mau cua tinh yeu": {
+        "value": "mcty",
+        "replace_type": "partial"
+    },
+    "hoa trong bao - t.": {
+        "value": "hoa trong bao_hdgc_",
+        "replace_type": "partial"
+    },
+    "song de chuoc loi p.1": {
+        "value": "bong trang do",
+        "replace_type": "partial"
+    },
+    "song de chuoc loi p.2": {
+        "value": "tinh ky nu_edited",
+        "replace_type": "partial"
+    }
+}
