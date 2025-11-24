@@ -362,6 +362,6 @@ playlist-checker/
    - Độ tương đồng tên: ≥70%
    - "HET TAP": Yêu cầu 100% khớp chính xác
 
-**Phiên bản**: 8.0  
+**Phiên bản**: 1.0  
 **Cập nhật cuối**: 2025  
 **Tính năng mới**: Kiểm tra lỗi thứ tự Part trong playlist
